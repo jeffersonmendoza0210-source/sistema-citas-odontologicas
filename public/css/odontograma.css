@@ -1,0 +1,19 @@
+@media print {
+    /* Ocultar elementos de la interfaz de usuario del sistema */
+    header, .sidebar, .navbar, .user-panel, .img-profile, 
+    .no-print, .nav-tabs, button, .btn, 
+    a[href*="logout"], .logout-container { 
+        display: none !important; 
+    }
+
+    /* Ajustar el cuerpo para el reporte */
+    body { background: white !important; padding: 0; margin: 0; }
+    
+    /* Mostrar todas las pestañas al imprimir para que el reporte sea completo */
+    .tab-pane { display: block !important; opacity: 1 !important; visibility: visible !important; }
+    
+    .card { border: 1px solid #eee !important; box-shadow: none !important; }
+    
+    /* Asegurar que el logo sea visible */
+    .d-print-block { display: block !important; }
+}
