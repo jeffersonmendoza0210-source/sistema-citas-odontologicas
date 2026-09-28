@@ -9,12 +9,10 @@ y ordenar el registro de pacientes.
 - Registro y consulta de pacientes
 - Programación y gestión de citas
 - Odontograma por paciente
-  [Agrega aquí login, roles, reportes u otras funciones que tenga]
 
 ## Tecnologías
 - PHP
 - SQL ([MySQL / SQL Server])
-- [HTML, CSS, JavaScript, Bootstrap, si los usaste]
 
 ## Capturas de pantalla
 ![Inicio de sesión](capturas/login.png)
@@ -33,4 +31,4 @@ Los datos incluidos son ficticios y solo con fines demostrativos.
 ## Autor
 **Jeferson Rodrigo Mendoza Monsalve**
 Estudiante de Ingeniería de Sistemas Computacionales – UPN
-[LinkedIn](https://www.linkedin.com/in/jeferson-rodrigo-mendozamonsalve-150589385/)
+[LinkedIn](linkedin.com/in/jeferson-rodrigo-mendoza-monsalve-150589385)
